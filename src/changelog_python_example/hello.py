@@ -13,3 +13,7 @@ def greet_formal(name: str) -> str:
         return "Good day."
     return f"Good day, {name}."
 
+def hello_world(name: str) -> str:
+    return f"{name} tells the world hello!"
+
+
