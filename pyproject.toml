@@ -7,6 +7,5 @@ requires-python = ">=3.9"
 [tool.git-changelog]
 convention = "conventional"
 parse_trailers = true
-in-place = true
-sections = ":all:"
+sections = "feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert"
 output = "CHANGELOG.md"
