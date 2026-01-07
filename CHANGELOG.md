@@ -12,7 +12,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Features
 
+- add hello world functionality ([cb7148b](https://github.com/PBopana/python-changelog/commit/cb7148b581bfd6cc39975af638157fb8548656e4) by PBopana). Refs: PRA-1237
 - add formal greeting ([b6608aa](https://github.com/PBopana/python-changelog/commit/b6608aa7085b37dd269650a6d93da8f0b1fbcafc) by PBopana). Refs: PRA-1236
+
+### Docs
+
+- generate changelog for 202601.0 release ([3872a81](https://github.com/PBopana/python-changelog/commit/3872a81c8dce49c43445485dad525bd78a82af23) by PBopana).
 
 ### Chore
 
